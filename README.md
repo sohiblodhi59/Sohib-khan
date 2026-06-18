@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sohib Khan 👋</h1>
+[<h1 align="center">Hi there, I'm Sohib Khan 👋</h1>
 
 
 
@@ -94,3 +94,4 @@
 </p>
 
 <p align="center">⭐️ <i>If you like my work, consider starring my repositories!</i> ⭐️</p>
+](https://www.linkedin.com/in/sohib-lodhi-6059083ab/)
